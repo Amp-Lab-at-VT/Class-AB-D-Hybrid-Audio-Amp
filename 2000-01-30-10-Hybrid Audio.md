@@ -4,7 +4,7 @@ title: Hybrid Audio
 description: The purpose of this project is to develop a hybrid audio amplifier using a Class AB push pull style for higher frequencies, and Class D switching style for the lower frequencies.The method for doing this will be to simplify, modularize, then go into detail and learn. 
 date: 2000-01-30 09:00:00
 hero_image: /web/img/10-AMP-Van/Hero.png
-image: /web/img/10-AMP-Van/Hero.png
+# image /web/img/10-AMP-Van/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
